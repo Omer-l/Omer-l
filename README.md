@@ -15,10 +15,10 @@
 <h3 align="left">Languages and Tools (Click for my most recent project):</h3>
 <p align="left"> 
   
-  <a href="https://github.com/Omer-l/Travelling-Salesman-Problem" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/Omer-l/Library-Management-System" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>   </a>
   
-  <a href="https://github.com/Omer-l/Charity-Run-Management-System" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/Omer-l/Travelling-Salesman-Problem" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
   
   <a href="https://github.com/Omer-l/Price-Comparison-Website/tree/main/src/nodeWeb" target="_blank" rel="noreferrer"> 
