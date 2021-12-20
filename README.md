@@ -31,15 +31,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
   <a href="https://github.com/Omer-l/Price-Comparison-Website/tree/main/src/nodeWeb" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
+  
+  <a href="https://github.com/Omer-l/Price-Comparison-Website/tree/main/src/nodeWeb" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
   
   <a href="https://github.com/Omer-l/ISO-Motors-E-commerce-Website" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   
   <a href="https://github.com/Omer-l/ISO-Motors-E-commerce-Website" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  
-  <a href="https://github.com/Omer-l/ISO-Motors-E-commerce-Website" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-l&" alt="omer-l" /></p>
