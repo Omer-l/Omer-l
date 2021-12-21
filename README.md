@@ -33,7 +33,7 @@
   <a href="https://github.com/Omer-l/Price-Comparison-Website/tree/main/src/nodeWeb" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
   
-  <a href="https://github.com/Omer-l/Price-Comparison-Website/tree/main/src/nodeWeb" target="_blank" rel="noreferrer"> 
+  <a href="https://github.com/Omer-l/Price-Comparison-Website/blob/main/src/main/java/dao/AppConfig.java" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
   
   <a href="https://github.com/Omer-l/ISO-Motors-E-commerce-Website" target="_blank" rel="noreferrer"> 
