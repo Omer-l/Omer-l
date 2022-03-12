@@ -42,5 +42,3 @@
   
   <a href="https://github.com/Omer-l/ISO-Motors-E-commerce-Website" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer-l&" alt="omer-l" /></p>
