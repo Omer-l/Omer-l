@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omer 🙌</h1>
 <h3 align="center">Computer scientist enthusiast driven by focusing on discrete mathematics, computer science fundamentals, software, hardware, and websites.</h3>
 
-- 🚀 Currently learning **Artificial Intelligence, Advanced Web Development with Big Data, Testing and Verification**
+- 🚀 Currently undertaking an **Ambient Assisted Living MSc by Research** course
 
 - 📝 Reports within most repositories
 
