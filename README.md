@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omer 🙌</h1>
 <h3 align="center">Computer scientist enthusiast driven by focusing on discrete mathematics, computer science fundamentals, software, hardware, and websites.</h3>
 
-- 🚀 Computer Science Masters by Research Graduate
+- 🚀 Masters by Research Graduate in Computer Science
 
 - 📝 Reports within most repositories
 
